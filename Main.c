@@ -1,5 +1,5 @@
 /*
-Finding sqrt using Binary Search using Python3
+Finding sqrt using Binary Search using C
 18th July 2021
 Prateek Pradhan - 1910990835
 */
