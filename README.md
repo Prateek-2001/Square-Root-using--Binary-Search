@@ -1,2 +1,2 @@
 # Square-Root-using--Binary-Search
-Finding sqrt using Binary Search using Python3
+Finding square root using Binary Search using Python3
